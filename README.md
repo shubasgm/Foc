@@ -1,0 +1,2 @@
+# Foc
+Fundamentals of computings 
